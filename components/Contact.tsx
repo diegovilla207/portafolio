@@ -40,7 +40,7 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="text-gray-600 dark:text-gray-400">
-            Let's collaborate on something amazing
+            Let&apos;s collaborate on something amazing
           </p>
         </motion.div>
 

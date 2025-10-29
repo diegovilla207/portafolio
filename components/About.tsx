@@ -49,7 +49,7 @@ export default function About() {
               transition={{ duration: 0.6, delay: 0.4 }}
             >
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-                I'm a passionate{' '}
+                I&apos;m a passionate{' '}
                 <span className="font-semibold text-electric-blue">Robotics and Digital Systems Engineering student</span> at{' '}
                 <span className="font-semibold">Tec de Monterrey</span>, focused on innovation, automation, and
                 intelligent systems.
@@ -59,7 +59,7 @@ export default function About() {
               </p>
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
                 From programming robots for competitive tournaments to mentoring the next generation of engineers,
-                I'm driven by the challenge of solving complex problems and pushing the boundaries of what's possible.
+                I&apos;m driven by the challenge of solving complex problems and pushing the boundaries of what&apos;s possible.
               </p>
 
               {/* Social Links */}
